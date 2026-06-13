@@ -208,7 +208,7 @@ ts-node filename.ts
 Current Progress:
 
 ```text
-█████░░░░░░░░░░░░░░░░░░░░ 16%
+██████░░░░░░░░░░░░░░░░░░░░ 18%
 ```
 
 Topics Completed:
@@ -219,6 +219,11 @@ Topics Completed:
 * any vs unknown vs never
 * Union Types
 * Intersection Types
+* Literal Types
+* Type Aliases
+* Interfaces
+* Function Typing
+
 
 ---
 
